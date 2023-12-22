@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" height="600" src="https://cdn.discordapp.com/attachments/930782153220948029/1187808974620336169/ezgif.com-video-to-gif-converted.gif">
+<img align="center" alt="Coding" width="2000" height="600" src="https://cdn.discordapp.com/attachments/930782153220948029/1187808974620336169/ezgif.com-video-to-gif-converted.gif">
 <h1 align="center">Hi 👋, I'm Alireza Saeed</h1>
 <h3 align="center">A passionate developer from IRAN 🇮🇷 </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
