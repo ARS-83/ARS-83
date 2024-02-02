@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="2000"  src="https://cdn.discordapp.com/attachments/930782153220948029/1187808974620336169/ezgif.com-video-to-gif-converted.gif">
-<h1 align="center">Hi 👋, I'm Alireza Saeed</h1>
+<h1 align="center">Hi 👋, I'm ARS</h1>
 <h3 align="center">A passionate developer from IRAN 🇮🇷 </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 - 🔭 I’m currently working on **Solar Panel**
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/alireza_saeed83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alireza_saeed83" height="30" width="40" /></a>
 <a href="https://discord.gg/XDPuCx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XDPuCx" height="30" width="40" /></a>
 </p>
 
