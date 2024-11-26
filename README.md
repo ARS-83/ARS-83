@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **python**
 
-- ⚡ Fun fact **2 * 2 = 5**
+- ⚡ Fun fact **1 + 1 = 3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
