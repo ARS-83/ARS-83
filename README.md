@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 - 🔭 I’m currently working on **Kaiser Panel**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [We don't have it at the moment](We don't have it at the moment)
 
